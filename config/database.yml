@@ -1,0 +1,8 @@
+# project name    : Ruby-MySQL
+# project author  : Mindula Dilthushan
+development:
+  adapter: mysql2
+  host: localhost
+  username: root
+  password: 1023
+  database: rubymysql
